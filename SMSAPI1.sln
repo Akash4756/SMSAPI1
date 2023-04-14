@@ -15,11 +15,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "utilityLayer", "utilityLaye
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SMSApplication", "SMSApplication\SMSApplication.csproj", "{94FB1BFC-AECF-461C-B762-FC301E988B2A}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SqlScript", "SqlScript", "{C486DDAE-37E7-4F91-A5E9-8441EDF76514}"
-	ProjectSection(SolutionItems) = preProject
-		..\..\..\OneDrive\Desktop\SqlScript.sql = ..\..\..\OneDrive\Desktop\SqlScript.sql
-	EndProjectSection
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
